@@ -1,0 +1,7 @@
+Machine Learning concepts are Here
+
+Differentiation
+
+Differentiation is a fundamental concept in calculus that involves finding the rate of change of a function at a given point.
+It is represented by the derivative of the function, which is the slope of the tangent line to the function at that point.
+The derivative can be calculated using various techniques, such as the power rule, product rule, quotient rule, and chain rule.
